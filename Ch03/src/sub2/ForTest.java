@@ -1,9 +1,5 @@
 package sub2;
 
-import java.util.Iterator;
-
-import com.sun.jndi.url.rmi.rmiURLContext;
-
 /*
  * 2021/05/18
  * ±è¿µÇö
