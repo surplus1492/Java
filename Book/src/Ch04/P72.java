@@ -9,6 +9,6 @@ public class P72 {
 		
 		System.out.println(a+b*c);
 
-		System.out.println((a+b*c);
+		System.out.println((a+b*c));
 	}
 }
